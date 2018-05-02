@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="th.vu.cs.testminiproject.BlankFragment"
+    android:background="@drawable/test21"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <Button
+        android:layout_height="wrap_content"
+        android:id="@+id/button7"
+        android:layout_marginTop="120dp"
+        android:layout_marginLeft="60dp"
+        android:background="@mipmap/test90"
+        android:layout_width="270dp" />
+</LinearLayout>
